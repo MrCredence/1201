@@ -5,7 +5,7 @@ Welcome to my profile
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrcredence&label=Profile%20views&color=0e75b6&style=flat" alt="mrcredence" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrcredence" alt="mrcredence" /></a> </p>
+<p align="left"> <a href="C:\Users\RANJA\OneDrive\Pictures\Saved Pictures" alt="mrcredence" /></a> </p>
 
 - 🔭 I’m currently working on **Students resources management**
 
